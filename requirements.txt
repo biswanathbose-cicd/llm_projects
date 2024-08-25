@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-cli
+langchain-community
+langchain-google-genai
+google.generativeai
+google-cloud-storage==2.10.0
+google-api-core
+chromadb
+faiss-cpu==1.7.3
+python-multipart
